@@ -1,0 +1,23 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#0d1117"/>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#30363d" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="200" fill="url(#grid)" />
+  
+  <text x="40" y="80" fill="#58a6ff" font-family="monospace" font-size="28" font-weight="bold">KENDRICK LAWTON</text>
+  <text x="40" y="115" fill="#8b949e" font-family="monospace" font-size="16">PROJECT PLATFORM // v1_ROUTER_ACTIVE</text>
+  
+  <rect x="40" y="145" width="10" height="10" fill="#238636" />
+  <text x="60" y="155" fill="#7d8590" font-family="monospace" font-size="12">K8S_READY</text>
+  
+  <rect x="150" y="145" width="10" height="10" fill="#238636" />
+  <text x="170" y="155" fill="#7d8590" font-family="monospace" font-size="12">AUTH_GO</text>
+  
+  <path d="M400 40 L760 40 L760 160 L400 160 Z" stroke="#30363d" stroke-dasharray="4 4" />
+  <text x="420" y="70" fill="#1f6feb" font-family="monospace" font-size="10">GET /v1/admin/status</text>
+  <text x="420" y="90" fill="#1f6feb" font-family="monospace" font-size="10">POST /v1/projects</text>
+  <text x="420" y="110" fill="#1f6feb" font-family="monospace" font-size="10">POST /v1/deployments</text>
+</svg>
