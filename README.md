@@ -1,7 +1,5 @@
 ![Banner](./profile-banner.svg)
 
-## Kendrick Lawton ##
-
 ### **Exploring the Invisible Systems That Power Progress**
 
 I don't just write code; I am deep in the process of learning how to build the foundations that keep innovation upright. My work is a bridge between rigorous curiosity and the complex, beautiful reality of **cloud-native infrastructure**.
