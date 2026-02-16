@@ -1,3 +1,5 @@
+![Banner](./banner.svg)
+
 ## Kendrick Lawton ##
 
 ### **Exploring the Invisible Systems That Power Progress**
