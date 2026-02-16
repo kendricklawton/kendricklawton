@@ -1,4 +1,4 @@
-![Banner](./banner.svg)
+![Banner](./profile-banner.svg)
 
 ## Kendrick Lawton ##
 
