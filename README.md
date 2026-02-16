@@ -40,4 +40,4 @@ My building blocks for exploration:
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/kendrick-lawton-ba4085374/) | **Always building, always learning.
+[LinkedIn](https://www.linkedin.com/in/kendrick-lawton-ba4085374/) | **Always building, always learning**.
