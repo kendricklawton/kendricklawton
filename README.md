@@ -1,5 +1,3 @@
-![Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Kendrick%20Lawton&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Project%20Platform%20|%20Cloud-Native%20Infrastructure&descAlignY=62&descAlign=50)
-
 ## Kendrick Lawton ##
 
 ### **Exploring the Invisible Systems That Power Progress**
