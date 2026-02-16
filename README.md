@@ -1,40 +1,43 @@
-# K-Henry
+Kendrick Lawton
 
-### **Architecting the Invisible Systems That Power Progress**
+### **Exploring the Invisible Systems That Power Progress**
 
-I don't just write code; I build the foundations that allow innovation to stay upright. My work is the bridge between the high-stakes precision of **AI-driven legal systems** at Clyde & Co and the radical efficiency of **cloud-native infrastructure**.
+I don't just write code; I am deep in the process of learning how to build the foundations that keep innovation upright. My work is a bridge between rigorous curiosity and the complex, beautiful reality of **cloud-native infrastructure**.
 
-> *"I believe that infrastructure should be invisible, security should be intrinsic, and high-concurrency shouldn't mean high-anxiety."*
-
----
-
-### 🧪 The North Star: [Project Platform]()
-
-**A five-year obsession with simplifying the complex.** Project Platform isn't just a side project; it’s my vision of what a modern Internal Developer Platform (IDP) should be. I'm stripping away the "infrastructure tax" for Go developers so they can focus on building, not plumbing.
-
-* **Harmony at Scale:** Building a control plane in **Go** that handles concurrency with the grace of a symphony.
-* **Invisible Security:** Using **Cilium (eBPF)** and **KubeArmor** to move security from a "check-box" to a kernel-level reflex.
-* **Radical Transparency:** Crafting observability with **VictoriaMetrics** that tells a story without consuming the entire budget.
+> *"I believe that infrastructure should be invisible, security should be intrinsic, and high-concurrency is a challenge to be mastered, not feared."*
 
 ---
 
-### 🎯 My Focus for 2026
+### 🧪 The Sandbox: [Project Platform](https://github.com/kendricklawton/project-platform)
 
-* **Deep-Kernel Defense:** Moving beyond firewalls to fine-grained L7 policies. If it’s not authorized at the kernel, it doesn’t exist.
-* **The AI-Reliability Gap:** Engineering the automated pipelines that give Data Science teams the "green light" to deploy with 100% confidence.
-* **The Art of the Immutable:** Perfecting the "Delete and Rebuild" philosophy through **Packer** and **Terraform**—because stability is a choice, not an accident.
+**An experimental journey into what a modern Internal Developer Platform (IDP) can be.** I am using this project to strip away the "infrastructure tax" for myself and others, learning how to build a system where developers focus on building, not plumbing.
+
+* **Go-First Learning:** Mastering high-performance backends using **Go** and **chi** to handle complex routing and middleware.
+* **Identity & Access:** Implementing **WorkOS (AuthKit)** to understand enterprise-grade SSO and seamless authentication flows.
+* **Kubernetes Orchestration:** Deep-diving into **Kubernetes** internals to manage node status, deployments, and cluster health.
+* **Precise Identification:** Using **UUID v7** to explore lexicographical sortability and its impact on database performance.
+* **API Evolution:** Practicing strict **v1 API versioning** to learn the discipline of backward compatibility and reliable service design.
 
 ---
 
-### 🛠 My Philosophy in Practice
+### 🎯 Learning Frontiers for 2026
 
-Instead of a toolbox, these are my building blocks:
+* **Kernel-Level Defense:** Moving beyond traditional firewalls to explore fine-grained L7 policies. I'm interested in the space where if it’s not authorized at the kernel, it doesn’t exist.
+* **The AI-Reliability Gap:** Learning to engineer automated pipelines that give Data Science teams the stability they need to deploy with confidence.
+* **The Art of the Immutable:** Refining the "Delete and Rebuild" philosophy through **Packer** and **Terraform**—because stability is a skill I am actively perfecting.
+
+---
+
+### 🛠 Philosophy in Practice
+
+My building blocks for exploration:
+
 **The Logic:** `Go` · `TypeScript`
 
-**The Foundation:** `Kubernetes` · `Google Cloud Platform` · `Terraform`
+**The Foundation:** `Kubernetes` · `Hetzner Cloud` · `DigitalOcean` · `Terraform` · `PostgreSQL`
 
-**The Shield:** `eBPF` · `Cilium` · `KubeArmor`
+**The Shield:** `eBPF` · `Cilium` · `KubeArmor` · `WorkOS`
 
 ---
 
-[LinkedIn]() | [The Sandbox]() | **Always learning, always building.**
+[LinkedIn](https://www.linkedin.com/in/kendrick-lawton-ba4085374/) | **Always building, always learning.
