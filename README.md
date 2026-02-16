@@ -3,6 +3,8 @@
 
 I build automated systems that scale. Currently bridging the gap between **AI-driven legal platforms** at Clyde & Co and **cloud-native infrastructure** via Project Platform.
 
+> "Enthusiast for high-concurrency systems and kernel-level security."
+
 ---
 
 ### 🧪 [Project Platform](https://github.com/kendricklawton/project-platform)
@@ -21,7 +23,7 @@ I build automated systems that scale. Currently bridging the gap between **AI-dr
 * **Immutable Deployments:** Achieving 100% reproducibility with **Packer** + **Terraform**.
 
 ### 🛠️ Technical Arsenal
-`Go` `C#` `TypeScript` `Kubernetes` `Knative` `Azure` `Terraform` `Cilium`
+`Go` · `C#` · `TypeScript` · `Kubernetes` · `Knative` · `Azure` · `Terraform` · `Cilium`
 
 ---
 [LinkedIn](https://www.linkedin.com/in/kendricklawton) | [Project Platform](https://github.com/kendricklawton/project-platform)
