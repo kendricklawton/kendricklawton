@@ -1,43 +1,36 @@
 ![Banner](./profile-banner.svg)
 
-### **Exploring the Invisible Systems That Power Progress**
+### **Architecting the Invisible Systems That Power Progress**
 
-I don't just write code; I am deep in the process of learning how to build the foundations that keep innovation upright. My work is a bridge between rigorous curiosity and the complex, beautiful reality of **cloud-native infrastructure**.
+I am a **Software Engineer** driven by a deep fascination with Internal Developer Platforms (IDPs). I believe that the most powerful infrastructure is the kind that remains invisible—a seamless foundation that empowers developers to focus entirely on building rather than plumbing.
 
-> *"I believe that infrastructure should be invisible, security should be intrinsic, and high-concurrency is a challenge to be mastered, not feared."*
+> *"Infrastructure should be invisible, security should be intrinsic, and high-concurrency is a challenge to be mastered, not a source of anxiety."*
 
 ---
 
-### 🧪 The Sandbox: [Project Platform](https://github.com/kendricklawton/project-platform)
+### 🧪 The Vision: [Project Platform]()
 
-**An experimental journey into what a modern Internal Developer Platform (IDP) can be.** I am using this project to strip away the "infrastructure tax" for myself and others, learning how to build a system where developers focus on building, not plumbing.
+Project Platform is my long-term mission to architect a **Go-centric Internal Developer Platform**. It is an opinionated ecosystem designed to strip away the "infrastructure tax," allowing Go developers to deploy with the radical efficiency of a modern IDP.
 
-* **Go-First Learning:** Mastering high-performance backends using **Go** and **chi** to handle complex routing and middleware.
-* **Identity & Access:** Implementing **WorkOS (AuthKit)** to understand enterprise-grade SSO and seamless authentication flows.
-* **Kubernetes Orchestration:** Deep-diving into **Kubernetes** internals to manage node status, deployments, and cluster health.
-* **Precise Identification:** Using **UUID v7** to explore lexicographical sortability and its impact on database performance.
-* **API Evolution:** Practicing strict **v1 API versioning** to learn the discipline of backward compatibility and reliable service design.
+* **Go-First Control Plane:** Building a high-performance backend using **Go** and the **chi** router to handle complex, versioned service routing.
+* **Native Orchestration:** Deeply integrating with **Kubernetes** to manage node health, automated deployments, and cluster state from a centralized control plane.
+* **Intrinsic Security:** Standardizing enterprise-grade identity through **WorkOS** and enforcing kernel-level security policies.
 
 ---
 
 ### 🎯 Learning Frontiers for 2026
 
-* **Kernel-Level Defense:** Moving beyond traditional firewalls to explore fine-grained L7 policies. I'm interested in the space where if it’s not authorized at the kernel, it doesn’t exist.
-* **The AI-Reliability Gap:** Learning to engineer automated pipelines that give Data Science teams the stability they need to deploy with confidence.
-* **The Art of the Immutable:** Refining the "Delete and Rebuild" philosophy through **Packer** and **Terraform**—because stability is a skill I am actively perfecting.
+* **Kernel-Level Defense:** Moving security beyond traditional firewalls to explore fine-grained L7 policies enforced at the kernel via **eBPF**.
+* **The Art of the Immutable:** Perfecting the "Delete and Rebuild" philosophy through **Packer** and **Terraform** to ensure stability is a reproducible choice.
 
 ---
 
 ### 🛠 Philosophy in Practice
 
-My building blocks for exploration:
+**The Logic:** `Go` · `TypeScript` · `SQL` · `Bash`
 
-**The Logic:** `Go` · `TypeScript`
+**The Foundation:** `Kubernetes` · `Google Cloud Platform` · `Terraform` · `Packer` · `Hetzner` · `DigitalOcean`
 
-**The Foundation:** `Kubernetes` · `Hetzner Cloud` · `DigitalOcean` · `Terraform` · `PostgreSQL`
-
-**The Shield:** `eBPF` · `Cilium` · `KubeArmor` · `WorkOS`
-
----
+**The Shield:** `Cilium (eBPF)` · `KubeArmor` · `Tailscale` · `WorkOS`
 
 [LinkedIn](https://www.linkedin.com/in/kendrick-lawton-ba4085374/) | **Always building, always learning**.
