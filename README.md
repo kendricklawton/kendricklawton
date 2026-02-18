@@ -17,20 +17,3 @@ Project Platform is my long-term mission to architect a **Go-centric Internal De
 * **Intrinsic Security:** Standardizing enterprise-grade identity through **WorkOS** and enforcing kernel-level security policies.
 
 ---
-
-### 🎯 Learning Frontiers for 2026
-
-* **Kernel-Level Defense:** Moving security beyond traditional firewalls to explore fine-grained L7 policies enforced at the kernel via **eBPF**.
-* **The Art of the Immutable:** Perfecting the "Delete and Rebuild" philosophy through **Packer** and **Terraform** to ensure stability is a reproducible choice.
-
----
-
-### 🛠 Philosophy in Practice
-
-**The Logic:** `Go` · `TypeScript` · `SQL` · `Bash`
-
-**The Foundation:** `Kubernetes` · `Google Cloud Platform` · `Terraform` · `Packer` · `Hetzner` · `DigitalOcean`
-
-**The Shield:** `Cilium (eBPF)` · `KubeArmor` · `Tailscale` · `WorkOS`
-
-[LinkedIn](https://www.linkedin.com/in/kendrick-lawton-ba4085374/) | **Always building, always learning**.
