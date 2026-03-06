@@ -16,7 +16,7 @@
     <text x="40" y="19" fill="#00add8" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">GO</text>
     
     <rect x="90" y="0" width="80" height="28" fill="#ffa657" fill-opacity="0.1" stroke="#326ce5" stroke-width="1"/>
-    <text x="130" y="19" fill="#326ce5" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">RUST</text>
+    <text x="130" y="19" fill="#ffa657" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">RUST</text>
     
     <rect x="180" y="0" width="80" height="28" fill="#844fba" fill-opacity="0.1" stroke="#844fba" stroke-width="1"/>
     <text x="220" y="19" fill="#844fba" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">CNCF</text>
