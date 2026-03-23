@@ -7,19 +7,29 @@
     </pattern>
   </defs>
   <rect width="800" height="240" fill="url(#grid)" />
-
   <text x="30" y="50" fill="#58a6ff" font-family="monospace" font-size="24" font-weight="bold">KENDRICK LAWTON</text>
   <text x="30" y="75" fill="#8b949e" font-family="monospace" font-size="14">SOFTWARE ENGINEER // BUILDING PLATFORMS</text>
   
   <g transform="translate(30, 105)">
+    <!-- GO -->
     <rect x="0" y="0" width="80" height="28" fill="#00add8" fill-opacity="0.1" stroke="#00add8" stroke-width="1"/>
     <text x="40" y="19" fill="#00add8" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">GO</text>
     
+    <!-- RUST -->
     <rect x="90" y="0" width="80" height="28" fill="#ffa657" fill-opacity="0.1" stroke="#ffa657" stroke-width="1"/>
     <text x="130" y="19" fill="#ffa657" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">RUST</text>
     
+    <!-- CNCF -->
     <rect x="180" y="0" width="80" height="28" fill="#844fba" fill-opacity="0.1" stroke="#844fba" stroke-width="1"/>
     <text x="220" y="19" fill="#844fba" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">CNCF</text>
+
+    <!-- .NET -->
+    <rect x="270" y="0" width="80" height="28" fill="#512bd4" fill-opacity="0.1" stroke="#512bd4" stroke-width="1"/>
+    <text x="310" y="19" fill="#a78bfa" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">.NET</text>
+
+    <!-- JS/TS -->
+    <rect x="360" y="0" width="80" height="28" fill="#f7df1e" fill-opacity="0.1" stroke="#f7df1e" stroke-width="1"/>
+    <text x="400" y="19" fill="#f7df1e" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">JS/TS</text>
   </g>
 
   <g transform="translate(450, 40)">
