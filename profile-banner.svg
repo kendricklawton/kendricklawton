@@ -7,29 +7,29 @@
     </pattern>
   </defs>
   <rect width="800" height="240" fill="url(#grid)" />
-  <text x="30" y="50" fill="#58a6ff" font-family="monospace" font-size="24" font-weight="bold">KENDRICK LAWTON</text>
-  <text x="30" y="75" fill="#8b949e" font-family="monospace" font-size="14">SOFTWARE ENGINEER // BUILDING PLATFORMS</text>
+  <text x="30" y="30" fill="#58a6ff" font-family="monospace" font-size="24" font-weight="bold">KENDRICK LAWTON</text>
+  <text x="30" y="55" fill="#8b949e" font-family="monospace" font-size="14">SOFTWARE ENGINEER // BUILDING PLATFORMS</text>
   
-  <g transform="translate(30, 105)">
+  <g transform="translate(30, 80)">
     <!-- GO -->
     <rect x="0" y="0" width="70" height="28" fill="#00add8" fill-opacity="0.1" stroke="#00add8" stroke-width="1"/>
-    <text x="35" y="19" fill="#00add8" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">GO</text>
+    <text x="35" y="14" fill="#00add8" font-family="monospace" font-size="12" text-anchor="middle" dominant-baseline="central" font-weight="bold">GO</text>
 
     <!-- RUST -->
     <rect x="78" y="0" width="70" height="28" fill="#ffa657" fill-opacity="0.1" stroke="#ffa657" stroke-width="1"/>
-    <text x="113" y="19" fill="#ffa657" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">RUST</text>
+    <text x="113" y="14" fill="#ffa657" font-family="monospace" font-size="12" text-anchor="middle" dominant-baseline="central" font-weight="bold">RUST</text>
 
     <!-- CNCF -->
     <rect x="156" y="0" width="70" height="28" fill="#844fba" fill-opacity="0.1" stroke="#844fba" stroke-width="1"/>
-    <text x="191" y="19" fill="#844fba" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">CNCF</text>
+    <text x="191" y="14" fill="#844fba" font-family="monospace" font-size="12" text-anchor="middle" dominant-baseline="central" font-weight="bold">CNCF</text>
 
     <!-- .NET -->
     <rect x="234" y="0" width="70" height="28" fill="#512bd4" fill-opacity="0.1" stroke="#512bd4" stroke-width="1"/>
-    <text x="269" y="19" fill="#a78bfa" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">.NET</text>
+    <text x="269" y="14" fill="#a78bfa" font-family="monospace" font-size="12" text-anchor="middle" dominant-baseline="central" font-weight="bold">.NET</text>
 
     <!-- JS/TS -->
     <rect x="312" y="0" width="70" height="28" fill="#f7df1e" fill-opacity="0.1" stroke="#f7df1e" stroke-width="1"/>
-    <text x="347" y="19" fill="#f7df1e" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">JS/TS</text>
+    <text x="347" y="14" fill="#f7df1e" font-family="monospace" font-size="12" text-anchor="middle" dominant-baseline="central" font-weight="bold">JS/TS</text>
   </g>
 
   <g transform="translate(450, 40)">
@@ -53,8 +53,8 @@
     </rect>
   </g>
 
-  <circle cx="35" cy="205" r="4" fill="#238636">
+  <circle cx="35" cy="185" r="4" fill="#238636">
     <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
   </circle>
-  <text x="50" y="209" fill="#7d8590" font-family="monospace" font-size="11">SYSTEM_OPERATIONAL // NODES_HEALTHY: 3</text>
+  <text x="50" y="189" fill="#7d8590" font-family="monospace" font-size="11">SYSTEM_OPERATIONAL // NODES_HEALTHY: 3</text>
 </svg>
